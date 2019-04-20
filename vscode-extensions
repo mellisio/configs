@@ -1,11 +1,11 @@
-castwide.solargraph
-dbaeumer.vscode-eslint
-eg2.tslint
-lfs.vscode-emacs-friendly
-misogi.ruby-rubocop
-ms-python.python
-PeterJausovec.vscode-docker
-rebornix.ruby
-streetsidesoftware.code-spell-checker
-Thadeu.vscode-run-rspec-file
-yzhang.markdown-all-in-one
+code --install-extension castwide.solargraph
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eg2.tslint
+code --install-extension lfs.vscode-emacs-friendly
+code --install-extension misogi.ruby-rubocop
+code --install-extension ms-python.python
+code --install-extension PeterJausovec.vscode-docker
+code --install-extension rebornix.ruby
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension Thadeu.vscode-run-rspec-file
+code --install-extension yzhang.markdown-all-in-one
